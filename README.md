@@ -1,2 +1,3 @@
 # aula13SET
-exerplificar IC
+
+Os desenvolvedores fazem commits regulares no código-fonte. Quando isso acontece, um sistema automatizado inicia o processo de IC. Isso envolve a compilação automática do código, a execução de testes automatizados e a geração de relatórios de desempenho. Qualquer erro é comunicado imediatamente à equipe de desenvolvimento, permitindo correções rápidas. Em seguida, o código pode ser implantado de forma contínua (se desejado) e monitorado em produção. Os resultados e feedback são usados para melhorar o código e o processo, e esse ciclo se repete continuamente para garantir qualidade e eficiência.
